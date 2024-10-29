@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+scripts/exampleProject/
+data/spatialData/rasterData/DEM_Terschelling.tif
